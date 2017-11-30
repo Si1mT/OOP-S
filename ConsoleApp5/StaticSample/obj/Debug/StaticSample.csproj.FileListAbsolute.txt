@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\bin\Debug\StaticSample.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\bin\Debug\StaticSample.exe
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\bin\Debug\StaticSample.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\obj\Debug\StaticSample.exe
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\obj\Debug\StaticSample.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\StaticSample\obj\Debug\StaticSample.csprojResolveAssemblyReference.cache
