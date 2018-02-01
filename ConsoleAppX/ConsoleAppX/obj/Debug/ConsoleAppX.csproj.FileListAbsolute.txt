@@ -1,0 +1,7 @@
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\bin\Debug\ConsoleAppX.exe.config
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\bin\Debug\ConsoleAppX.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\bin\Debug\ConsoleAppX.pdb
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\obj\Debug\ConsoleAppX.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\obj\Debug\ConsoleAppX.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\obj\Debug\ConsoleAppX.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\ConsoleAppX\ConsoleAppX\obj\Debug\ConsoleAppX.pdb
